@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a basic react app created to learn the React concepts. The app is a trainging module on Pluralsight.
+This is a basic react app created to learn the React concepts. The app is a training module on Pluralsight.
 
 ## Available Scripts
 
