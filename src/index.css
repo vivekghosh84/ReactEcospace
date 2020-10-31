@@ -1,0 +1,88 @@
+.main {
+  background-color: rgba(0, 0, 0, 0.795);
+  color: #ccc;
+}
+
+#app {
+  max-width: 950px;
+  /* margin: 10px 20px; */
+}
+
+#nav {
+  /* padding: 20px 0 20px 0; */
+  margin: 0;
+  padding: 0;
+  color: rgb(197, 189, 189);
+}
+
+#nav > a {
+  color: rgb(197, 189, 189);
+}
+
+.nav-item {
+  margin: 10px;
+}
+
+.pageHeaders {
+  /* background-color: rgba(0, 0, 0, 0.219); */
+  padding: 10px;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.pageContent {
+  margin-top: 20px;
+  padding: 20px 0;
+  font-size: 18px;
+}
+
+.buttonFloatLeft {
+  float: left;
+  margin-top: 30px !important;
+}
+
+.margin10 {
+  margin: 10px;
+}
+
+.margin05 {
+  margin: 5px;
+}
+
+.width80 {
+  width: 80px;
+}
+
+.width100 {
+  width: 100px;
+}
+
+.width350 {
+  width: 350px;
+}
+
+.marginTop10 {
+  margin-top: 0;
+}
+
+.marginTop20 {
+  margin-top: 20px;
+}
+
+.listRowStyle {
+  border-left: 5px solid rgb(83, 151, 69);
+  margin-bottom: 10px;
+}
+
+.courseListingColor {
+  color: rgb(197, 189, 189);
+}
+
+.smallerText {
+  font-size: 14px;
+  color: rgb(180, 166, 166) !important;
+}
+
+.smallButton {
+  width: 80px;
+  height: 30px;
+}
